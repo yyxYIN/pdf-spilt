@@ -9,7 +9,7 @@ def spilt_pdf(read_file, output_path, out_page_nums):
     '''
     :param read_file: 读入的pdf文件路径。Input Pdf file path
     :param output_path: 导出文件存放的路径。Export file storage path
-    :param out_page_nums: 以out_page_nums页为单位。In out_page_nums pages
+    :param out_page_nums: 以out_page_nums页为划分单位。Divided by out_page_nums pages
     :return:
     '''
     try:
